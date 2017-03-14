@@ -1,0 +1,70 @@
+*{outline:solid 1px rgba(255,0,0.3)}
+header
+{ background-image:url("https://n12.picjoke.net/useroutputs/1257/2017-02-28/12-es-0d946bc6ae294cc070e77439bc3cda45.jpg");
+background-repeat: no-repeat;
+	background-size: 100%;
+	height: 500px;
+	text-align:center;}
+
+
+div h1
+{
+    color: chocolate;
+
+}
+  
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+
+}
+
+li {
+    float: left;
+}
+a
+{
+  color:white;
+}
+
+li a {
+    display: block;
+    padding: 10px;
+    background-color:black;
+  width:100px;
+  opacity:0.5;
+   text-align: center;
+}
+.img{
+  width:100%;
+  opacity:0.5;
+}
+    img {
+    width: 200px;
+        top: 50px;
+    text-align: center;
+}
+
+    
+.contacto
+ {
+text-align: center;
+color: #6B1881;
+text-decoration: 10px;
+font: oblique bold 120% cursive;
+
+
+ }
+ .row{
+  padding:10px 350px;
+  text-align:center;
+  border-radius: 100%;
+
+}
+.row img{
+  
+  height:20px;
+}
